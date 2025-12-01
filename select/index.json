@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "STAND UP TO THE VICTORY ～トゥ･ザ･ヴィクトリー～",
+  "base_artist": "川添智久",
+  "createdAt": "2025-12-01T14:52:03.405612Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "STAND UP TO THE VICTORY",
+      "artist": "Kawasoe Tomohisa",
+      "has_synced": true,
+      "path": "select/01_STAND_UP_TO_THE_VICTORY_Kawasoe_Tomohisa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stand Up To The Victory",
+      "artist": "Tomohisa Kawazoe",
+      "has_synced": true,
+      "path": "select/02_Stand_Up_To_The_Victory_Tomohisa_Kawazoe.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "STAND UP TO THE VICTORY 〜トゥ・ザ・ヴィクトリー〜",
+      "artist": "川添智久、田村直美",
+      "has_synced": true,
+      "path": "select/03_STAND_UP_TO_THE_VICTORY_〜トゥ・ザ・ヴィクトリー〜_川添智久、田村直美.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "STAND UP TO THE VICTORY ～トゥ・ザ・ヴィクトリィ～",
+      "artist": "川添智久",
+      "has_synced": true,
+      "path": "select/04_STAND_UP_TO_THE_VICTORY_~トゥ・ザ・ヴィクトリィ~_川添智久.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "STAND UP TO THE VICTORY〜トゥ・ザ・ヴィクトリー〜",
+      "artist": "川添智久",
+      "has_synced": true,
+      "path": "select/05_STAND_UP_TO_THE_VICTORY〜トゥ・ザ・ヴィクトリー〜_川添智久.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "STAND UP TO THE VICTORY～トゥ･ザ･ヴィクトリー～",
+      "artist": "川添智久",
+      "has_synced": true,
+      "path": "select/06_STAND_UP_TO_THE_VICTORY~トゥ・ザ・ヴィクトリー~_川添智久.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "STAND UP TO THE VICTORY 〜トゥ・ザ・ヴィクトリー〜",
+      "artist": "Tomohisa Kawazoe",
+      "has_synced": true,
+      "path": "select/07_STAND_UP_TO_THE_VICTORY_〜トゥ・ザ・ヴィクトリー〜_Tomohisa_Kawazoe.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "STAND UP TO THE VICTORY ～トゥ･ザ･ヴィクトリー～",
+      "artist": "川添智久",
+      "has_synced": true,
+      "path": "select/08_STAND_UP_TO_THE_VICTORY_~トゥ・ザ・ヴィクトリー~_川添智久.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "STAND UP TO THE VICTORY〜トゥ・ザ・ヴィクトリー〜",
+      "artist": "川添智久",
+      "has_synced": true,
+      "path": "select/09_STAND_UP_TO_THE_VICTORY〜トゥ・ザ・ヴィクトリー〜_川添智久.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "STAND UP TO THE VICTORY ~To The Victory~",
+      "artist": "Tomohisa Kawazoe",
+      "has_synced": true,
+      "path": "select/10_STAND_UP_TO_THE_VICTORY_~To_The_Victory~_Tomohisa_Kawazoe.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "STAND UP TO THE VICTORY ～TO THE VICTORY～",
+      "artist": "Tomohisa Kawazoe",
+      "has_synced": true,
+      "path": "select/11_STAND_UP_TO_THE_VICTORY_~TO_THE_VICTORY~_Tomohisa_Kawazoe.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "STAND UP TO THE VICTORY～トゥ・ザ・ヴィクトリー～",
+      "artist": "Tomohisa Kawazoe",
+      "has_synced": true,
+      "path": "select/12_STAND_UP_TO_THE_VICTORY~トゥ・ザ・ヴィクトリー~_Tomohisa_Kawazoe.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STAND UP TO THE VICTORY ～トゥ・ザ・ヴィクトリー～",
+      "artist": "川添 智久",
+      "has_synced": false,
+      "path": "select/pl_01_STAND_UP_TO_THE_VICTORY_~トゥ・ザ・ヴィクトリー~_川添_智久.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "STAND UP TO THE VICTORY ～トゥ・ザ・ヴィクトリー～",
+      "artist": "川添 智久",
+      "has_synced": false,
+      "path": "select/pl_02_STAND_UP_TO_THE_VICTORY_~トゥ・ザ・ヴィクトリー~_川添_智久.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "STAND UP TO THE VICTORY",
+      "artist": "川添 智久",
+      "has_synced": false,
+      "path": "select/pl_03_STAND_UP_TO_THE_VICTORY_川添_智久.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "STAND UP TO THE VICTORY ~トゥ ザ ヴィクトリー~",
+      "artist": "川添 智久",
+      "has_synced": false,
+      "path": "select/pl_04_STAND_UP_TO_THE_VICTORY_~トゥ_ザ_ヴィクトリー~_川添_智久.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "STAND UP TO THE VICTORY ～トゥ・ザ・ヴィクトリー～ / with オーイシマサヨシ",
+      "artist": "川添 智久",
+      "has_synced": false,
+      "path": "select/pl_05_STAND_UP_TO_THE_VICTORY_~トゥ・ザ・ヴィクトリー~___with_オーイシマサヨシ_川添_智久.txt"
+    }
+  ]
+}
